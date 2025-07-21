@@ -1,6 +1,6 @@
 - Hi, I’m @Murali-ux07
-- I’m interested in software development
-- I’m currently learning python
+- I’m interested in Data Engineering
+- I’m currently learning Pyspark, Apache airflow, ETL Pipelines
 - I’m looking to collaborate on a project
 
 <!---
