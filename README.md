@@ -1,6 +1,6 @@
 - Hi, I’m @Murali-ux07
 - I’m interested in Data Engineering
-- I’m currently learning Pyspark, Apache airflow, ETL Pipelines
+- I’m currently working on projects to upskill myself. Python, SQL, Azure Data Factory, Azure Databricks, Synapse Analytics Apache airflow, ETL Pipelines.
 - I’m looking to collaborate on a project
 
 <!---
